@@ -1,7 +1,7 @@
 @use 'base';
     .container {
         @extend %contain;
-        padding-bottom: 50px;
+        padding-bottom: 70px;
         .col1, .col2 {
             flex-direction: column;
         }
